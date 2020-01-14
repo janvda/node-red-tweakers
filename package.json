@@ -2,7 +2,10 @@
     "name": "node-red-tweakers",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-slack": "2.0.0",
+        "node-red-node-feedparser": "0.1.15"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows.json",
