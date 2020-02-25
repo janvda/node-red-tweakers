@@ -1,6 +1,6 @@
 {
     "name": "node-red-tweakers",
-    "description": "A Node-RED Project",
+    "description": "A Node-RED flow monitoring tweakers.net RSS feed for specific articles.",
     "version": "0.0.1",
     "dependencies": {
         "node-red-contrib-slack": "2.0.0",
