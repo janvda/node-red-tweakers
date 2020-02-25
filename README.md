@@ -5,4 +5,5 @@
 
 | Name                     |  Description                                   |
 |------------------------- | -----------------------------------------------|
-| **slack_token**          | slack token used to connect to the slack workspace  |
+| **slack_token**          | API token of the slack Bot |
+| **slack_channel_tweakers** | ID of the channel where the slack messages will be posted.  |
